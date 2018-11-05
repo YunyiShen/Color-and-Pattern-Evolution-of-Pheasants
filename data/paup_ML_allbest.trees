@@ -1,0 +1,112 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon Oct 29 09:38:17 2018]
+[!
+>Data file = pheasants_euasia_56+8_Mito.nexus
+>Heuristic search settings:
+>  Optimality criterion = likelihood
+>    All characters have equal weight
+>
+>    NOTE: 42 all-missing characters ignored in likelihood analyses.
+>
+>    Likelihood settings:
+>                      Substitution types = 2 (HKY85 variant)
+>                             Ti/tv ratio = 2
+>                       State frequencies = empirical: A=0.303015 C=0.315822 G=0.136091 T=0.245072
+>          Proportion of invariable sites = none
+>                 Rates at variable sites = equal
+>                    Model correspondence = HKY85
+>
+>      Number of distinct data patterns under this model = 8390
+>      Molecular clock not enforced
+>      Starting branch lengths obtained using Rogers-Swofford approximation method
+>      Trees with approximate log likelihoods 5% or further from the target score are rejected
+>        without additional iteration
+>      Branch-length optimization = one-dimensional Newton-Raphson with pass limit=20,
+>                                   tolerance=1e-007
+>      Likelihood calculations performed in single precision
+>      Vector processing enabled
+>      Conditional-likelihood rescaling threshold = 1e-020
+>
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 1000
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 673885
+>  Score of best tree(s) found = 290415.9
+>  Number of trees retained = 1
+>  Time used = 55:49:28 (CPU time = 07:49:21.8)
+]
+	Translate
+		1 Alectoris_chukar,
+		2 Alectura_lathami,
+		3 Arborophila_ardens,
+		4 Arborophila_brunneopectus,
+		5 Arborophila_gingica,
+		6 Arborophila_rufipectus,
+		7 Arborophila_rufogularis,
+		8 Argusianus_argus,
+		9 Bambusicola_fytchii,
+		10 Bambusicola_thoracicus,
+		11 Caloperdix_oculeus,
+		12 Chrysolophus_amherstiae,
+		13 Chrysolophus_pictus,
+		14 Colinus_virginianus,
+		15 Coturnix_chinensis,
+		16 Coturnix_japonica,
+		17 Crossoptilon_crossoptilon,
+		18 Crossoptilon_harmani,
+		19 Crossoptilon_mantchuricum,
+		20 Francolinus_pintadeanus,
+		21 Gallus_gallus,
+		22 Gallus_lafayetii,
+		23 Gallus_sonneratii,
+		24 Gallus_varius,
+		25 Ithaginis_cruentus,
+		26 Lagopus_lagopus,
+		27 Lagopus_muta,
+		28 Lerwa_lerwa,
+		29 Lophophorus_lhuysii,
+		30 Lophophorus_sclateri,
+		31 Lophura_ignita,
+		32 Lophura_nycthemera,
+		33 Lophura_swinhoii,
+		34 Lyrurus_tetrix,
+		35 Meleagris_gallopavo,
+		36 Numida_meleagris,
+		37 Pavo_cristatus,
+		38 Pavo_muticus,
+		39 Perdix_hodgsoniae,
+		40 Phasianus_colchicus,
+		41 Phasianus_versicolor,
+		42 Polyplectron_bicalcaratum,
+		43 Polyplectron_germaini,
+		44 Polyplectron_napoleonis,
+		45 Pucrasia_macrolopha,
+		46 Syrmaticus_ellioti,
+		47 Syrmaticus_humiae,
+		48 Syrmaticus_reevesii,
+		49 Tetraogallus_himalayensis,
+		50 Tetraogallus_tibetanus,
+		51 Tetraophasis_obscurus,
+		52 Tetraophasis_szechenyii,
+		53 Tetrastes_bonasia,
+		54 Tetrastes_sewerzowi,
+		55 Tragopan_caboti,
+		56 Tragopan_temminckii,
+		57 Callipepla_squamata,
+		58 Ptilopachus_petrosus,
+		59 Rhynchortyx_cinctus
+		;
+tree 'PAUP_1' = [&R] ((((((1:0.078628,(49:0.030448,50:0.027401):0.042797):0.010080,(15:0.063948,16:0.059823):0.036581):0.019926,((((8:0.068620,(37:0.014697,38:0.016417):0.055437):0.012305,(((9:0.038920,10:0.033018):0.029589,(((21:0.017404,24:0.019275):0.010120,22:0.021190):0.007089,23:0.020900):0.036989):0.012320,20:0.068320):0.021082):0.005964,(((((((((12:0.009010,13:0.007652):0.032710,(40:0.013464,41:0.012203):0.037326):0.007386,(((17:0.000925,18:0.001295):0.012685,19:0.014520):0.033674,(31:0.024133,(32:0.021192,33:0.024710):0.008371):0.017162):0.006954):0.014662,((46:0.000636,47:0.001347):0.042338,48:0.050846):0.017222):0.025220,39:0.093346):0.009715,45:0.067732):0.006744,((((26:0.024926,27:0.020526):0.028163,34:0.042579):0.032223,(53:0.028893,54:0.029556):0.045107):0.031082,35:0.087964):0.014012):0.006939,(((29:0.024986,30:0.029472):0.032797,(51:0.012551,52:0.014923):0.041481):0.017582,(55:0.018737,56:0.019040):0.058065):0.007574):0.014429,(25:0.072678,28:0.066751):0.012083):0.011845):0.006191,((42:0.014538,43:0.016823):0.022602,44:0.035099):0.056764):0.007805):0.014200,(((3:0.021016,4:0.022662):0.026466,((5:0.021693,7:0.021970):0.023998,6:0.044459):0.013303):0.038003,11:0.085941):0.032232):0.018714,(2:0.164199,36:0.071561):0.019653):0.003263,(((14:0.038776,57:0.037747):0.037700,59:0.074079):0.037581,58:0.091351):0.013051):0;
+End;

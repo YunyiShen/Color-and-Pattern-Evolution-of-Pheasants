@@ -1,0 +1,53 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon Oct 29 09:38:42 2018]
+[!
+>Consensus of 1 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = likelihood
+>    All characters have equal weight
+>
+>    NOTE: 42 all-missing characters ignored in likelihood analyses.
+>
+>    Likelihood settings:
+>                      Substitution types = 2 (HKY85 variant)
+>                             Ti/tv ratio = 2
+>                       State frequencies = empirical: A=0.303015 C=0.315822 G=0.136091 T=0.245072
+>          Proportion of invariable sites = none
+>                 Rates at variable sites = equal
+>                    Model correspondence = HKY85
+>
+>      Number of distinct data patterns under this model = 8390
+>      Molecular clock not enforced
+>      Starting branch lengths obtained using Rogers-Swofford approximation method
+>      Trees with approximate log likelihoods 5% or further from the target score are rejected
+>        without additional iteration
+>      Branch-length optimization = one-dimensional Newton-Raphson with pass limit=20,
+>                                   tolerance=1e-007
+>      Likelihood calculations performed in single precision
+>      Vector processing enabled
+>      Conditional-likelihood rescaling threshold = 1e-020
+>
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 1000
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 673885
+>  Score of best tree(s) found = 290415.9
+>  Number of trees retained = 1
+>  Time used = 55:49:28 (CPU time = 07:49:21.8)
+]
+	tree MajRule = [&U] (((((Alectoris_chukar,(Tetraogallus_himalayensis,Tetraogallus_tibetanus)100)100,(Coturnix_chinensis,Coturnix_japonica)100)100,((((Argusianus_argus,(Pavo_cristatus,Pavo_muticus)100)100,(((Bambusicola_fytchii,Bambusicola_thoracicus)100,(((Gallus_gallus,Gallus_varius)100,Gallus_lafayetii)100,Gallus_sonneratii)100)100,Francolinus_pintadeanus)100)100,(((((((((Chrysolophus_amherstiae,Chrysolophus_pictus)100,(Phasianus_colchicus,Phasianus_versicolor)100)100,(((Crossoptilon_crossoptilon,Crossoptilon_harmani)100,Crossoptilon_mantchuricum)100,(Lophura_ignita,(Lophura_nycthemera,Lophura_swinhoii)100)100)100)100,((Syrmaticus_ellioti,Syrmaticus_humiae)100,Syrmaticus_reevesii)100)100,Perdix_hodgsoniae)100,Pucrasia_macrolopha)100,((((Lagopus_lagopus,Lagopus_muta)100,Lyrurus_tetrix)100,(Tetrastes_bonasia,Tetrastes_sewerzowi)100)100,Meleagris_gallopavo)100)100,(((Lophophorus_lhuysii,Lophophorus_sclateri)100,(Tetraophasis_obscurus,Tetraophasis_szechenyii)100)100,(Tragopan_caboti,Tragopan_temminckii)100)100)100,(Ithaginis_cruentus,Lerwa_lerwa)100)100)100,((Polyplectron_bicalcaratum,Polyplectron_germaini)100,Polyplectron_napoleonis)100)100)100,(((Arborophila_ardens,Arborophila_brunneopectus)100,((Arborophila_gingica,Arborophila_rufogularis)100,Arborophila_rufipectus)100)100,Caloperdix_oculeus)100)100,(Alectura_lathami,Numida_meleagris)100,(((Colinus_virginianus,Callipepla_squamata)100,Rhynchortyx_cinctus)100,Ptilopachus_petrosus)100)0;
+end;
