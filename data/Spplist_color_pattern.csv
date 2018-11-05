@@ -1,17 +1,17 @@
 spclist,Wings.M,Wing.2.M,Wing.3.M,Wings pattern.M,Belly.M,Belly.2.M,Belly.3.M,Belly pattern.M,Head.M,Head.2.M,Head.3.M,Head pattern.M,Tail.M,Tail.2.M,Tail.3.M,Tail pattern.M,Length.M,Wing Length.M,TailL.M,Tarsus.M,Weight.M,Remark.M,Wings.F,Wings2..F,Wings.3.F,Wings pattern.F,Belly.F,Belly.2.F,Belly.3.F,Belly pattern.F,Head.F,Head.2.F,Head.3.F,Head pattern.F,Tail.F,Tail.2.F,Tail.2.F,Tail pattern.F,Length.F,Wing Length.F,TailL.F,Tarsus.F,Weight.F,Remark.F,Dimorphism
 Acryllium vulturinum,Grey,,,S,Blue,,,N,Bare,,,N,Grey,,,S,71,298,272,109,1335,weightn=2,Brown,,,B,Blue,,,N,Bare,,,N,Brown,,,B,61,290,260,99,1329,weightn=2,1
 Alectoris chukar,Black-White,Grey,,BC,Yellowish,,,N,Black-White,,,sB,Graishblue,,,N,34,168,82,,536,no tarsus,Black-White,Grey,,BC,Yellowish,,,N,Black-White,,,sB,Grey-blue,,,N,30,154,80,,501,no tarsus,0
-Alectura lathami,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alectura lathami,NOT EXIST IN PHEASANT FIELD GUIDE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Arborophila ardens,Brown-Black,Grey,,C,Grey,White,,C,Black-White,Brown-White,Red,R,Grey-Black,,,C,28,133,49,,300,weightn=1,Brown-Black,Grey,,C,Grey,White,,C,Black-White,Brown-White,Red,R,Grey-Black,,,C,26,116,36,,237,weightn=1 no tarsus,0
 Arborophila brunneopectus,Brown-White,Black,,BC,Brown,Black-White,,C,Black-White,Brown,,sBC,Brown-Black,,,B,28,147,64,,317,weightn=ca,Brown-White,Black,,BC,Brown,Black-White,,C,Black-White,Brown,,sBC,Brown-Black,,,B,27,139,59,,268,weightn=ca no tarsus,0
 Arborophila gingica,Grey,Brown,Yellow-Black,C,Greyishwhite,Pink,,B,Yellow,Black-White-Brown,Red,sBR,Greyishwhite,White,,C,29,147,,,320,weight is capt,Grey,Brown,Yellow-Black,C,Greyishwhite,Pink,,B,Yellow,Black-White-Brown,Red,sBR,Greyishwhite,White,,C,28,140,,,320,weight capt,0
-Arborophila rufipectus,Gray,Brown-Black,,BC,White,Gray-Brown,,C,White-Black,Brown,,sBB,Grey-Black,,,C,30,153,71,45,440,,Grey,Brown-Black,,C,Brown,,,N,Brown,White-Black,,sBB,Grey,,,C,30,144,67,42,368,,1
+Arborophila rufipectus,Grey,Brown-Black,,BC,White,Gray-Brown,,C,White-Black,Brown,,sBB,Grey-Black,,,C,30,153,71,45,440,,Grey,Brown-Black,,C,Brown,,,N,Brown,White-Black,,sBB,Grey,,,C,30,144,67,42,368,,1
 Arborophila rufogularis,Greyishblack-Black,Brown-Greyishgreen-Black,Grey,C,Grey,Brown-White,,C,Red,White-Black,,sBI,Greyishblack,,,C,27,154,70,45,378,"tail,tarsusn=1",Greyishbrown-Black,Grey-Brown-Black,Grey,C,White-Brown,Grey,,C,Red,Black-White,Brown,sBI,Brown-Black,,,C,26,145,59,41,324,"tail,tarsusn=1",1
-Argusianus argus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bambusicola fytchii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bambusicola thoracicus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Callipepla squamata,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Caloperdix oculeus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Argusianus argus,Black-White,Green,,I,Black-White,Brown,,I,Blue,,,N,White-Black,Brown,,I,180,465,1240,110,2322,,Brown-White,,,I,Brown,,,N,Blue,,,N,Brown-White,,,I,74,325,330,86,1700,Strong dimorphism,1
+Bambusicola fytchii,Brown-Black,Grey-Black,,C,White-Black,Brown,,C,Black-White,Brown,,sB,Brown-Black,,,B,27,148,117,,339,,Grey-Brown,Black,,BI,Brown-Black,,,C,Brown,,,sB,Brown,,,B,27,136,102,,298,,1
+Bambusicola thoracicus,Grey-Raddish,Black,,C,Brown-Raddish,,,C,Grey-Brown,Raddish,,N,Greyishbrown-Black,White,,B,31,,,,271,from HELM guide,Grey-Raddish,Black,,C,Brown-Raddish,,,C,Grey-Brown,Raddish,,N,Greyishbrown-Black,White,,B,31,,,,271,,0
+Callipepla squamata,Greyishblack,,,N,Brown-Black,Grey-Black,,C,Darkbrown,White,,N,Black,,,N,26,115,83,,176,,Greyishblack,,,N,Brown-Black,Grey-Black,,C,Darkbrown,White,,N,Black,,,N,25,114,82,,202,Outer-group,0
+Caloperdix oculeus,NOT EXIST IN PHEASANT FIELD GUIDE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chrysolophus amherstiae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chrysolophus pictus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colinus virginianus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
