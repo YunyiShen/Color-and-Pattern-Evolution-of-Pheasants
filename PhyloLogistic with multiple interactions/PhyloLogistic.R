@@ -21,6 +21,14 @@ phyloLogistic.logPL = function(theta, X, treeM, Graphs, Z)
     -logPL
 }
 
+Ives_standardizetree=function(phylotree){
+	require(ape)
+	dista = cophenetic.phylo(phylotree)
+	Wtuta = 2*dista/(max(dista))
+	return(Wtuta)
+
+}
+
 phyloLogistic.fit = function(Z,phylotree,data,Graphs){
 	treeM = Ives_standardizetree(phylotree)
 	stopifnot(sum(!sapply(Graphs,isSymmetric.matrix))==0)
